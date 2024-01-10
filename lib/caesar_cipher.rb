@@ -25,4 +25,4 @@ def caesar_cipher(text, factor)
 end
 
 # Ciphers the string by the shift factor of 5 and prints it
-puts caesar_cipher("What a string!", 5)
+# puts caesar_cipher("What a string!", 5)
